@@ -1,0 +1,10 @@
+F:\c# project\project__003\Grading\bin\Debug\Grading.exe.config
+F:\c# project\project__003\Grading\bin\Debug\Grading.exe
+F:\c# project\project__003\Grading\bin\Debug\Grading.pdb
+F:\c# project\project__003\Grading\obj\Debug\Grading.csprojAssemblyReference.cache
+F:\c# project\project__003\Grading\obj\Debug\Grading.Form1.resources
+F:\c# project\project__003\Grading\obj\Debug\Grading.Properties.Resources.resources
+F:\c# project\project__003\Grading\obj\Debug\Grading.csproj.GenerateResource.cache
+F:\c# project\project__003\Grading\obj\Debug\Grading.csproj.CoreCompileInputs.cache
+F:\c# project\project__003\Grading\obj\Debug\Grading.exe
+F:\c# project\project__003\Grading\obj\Debug\Grading.pdb

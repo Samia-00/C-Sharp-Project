@@ -1,0 +1,10 @@
+F:\c# project\Age_Count\Date_Tiime\bin\Debug\Date_Tiime.exe.config
+F:\c# project\Age_Count\Date_Tiime\bin\Debug\Date_Tiime.exe
+F:\c# project\Age_Count\Date_Tiime\bin\Debug\Date_Tiime.pdb
+F:\c# project\Age_Count\Date_Tiime\obj\Debug\Date_Tiime.csprojAssemblyReference.cache
+F:\c# project\Age_Count\Date_Tiime\obj\Debug\Date_Tiime.Form1.resources
+F:\c# project\Age_Count\Date_Tiime\obj\Debug\Date_Tiime.Properties.Resources.resources
+F:\c# project\Age_Count\Date_Tiime\obj\Debug\Date_Tiime.csproj.GenerateResource.cache
+F:\c# project\Age_Count\Date_Tiime\obj\Debug\Date_Tiime.csproj.CoreCompileInputs.cache
+F:\c# project\Age_Count\Date_Tiime\obj\Debug\Date_Tiime.exe
+F:\c# project\Age_Count\Date_Tiime\obj\Debug\Date_Tiime.pdb

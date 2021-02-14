@@ -1,0 +1,10 @@
+F:\c# project\server project\first database project\bin\Debug\first database project.exe.config
+F:\c# project\server project\first database project\bin\Debug\first database project.exe
+F:\c# project\server project\first database project\bin\Debug\first database project.pdb
+F:\c# project\server project\first database project\obj\Debug\first database project.csprojAssemblyReference.cache
+F:\c# project\server project\first database project\obj\Debug\first_database_project.Form1.resources
+F:\c# project\server project\first database project\obj\Debug\first_database_project.Properties.Resources.resources
+F:\c# project\server project\first database project\obj\Debug\first database project.csproj.GenerateResource.cache
+F:\c# project\server project\first database project\obj\Debug\first database project.csproj.CoreCompileInputs.cache
+F:\c# project\server project\first database project\obj\Debug\first database project.exe
+F:\c# project\server project\first database project\obj\Debug\first database project.pdb

@@ -1,0 +1,4 @@
+Student Id : s001
+Bangla : 30
+English : 30
+Math : 30

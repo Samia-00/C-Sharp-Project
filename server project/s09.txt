@@ -1,0 +1,4 @@
+Student Id : s09
+Bangla : 50
+English : 50
+Math : 50

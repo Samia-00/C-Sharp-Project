@@ -1,0 +1,4 @@
+Student Id : 001
+Bangla : 50
+English : 30
+Math : 30

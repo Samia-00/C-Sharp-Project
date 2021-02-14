@@ -1,0 +1,7 @@
+F:\c# project\method1\project 3\bin\Debug\project 3.exe.config
+F:\c# project\method1\project 3\bin\Debug\project 3.exe
+F:\c# project\method1\project 3\bin\Debug\project 3.pdb
+F:\c# project\method1\project 3\obj\Debug\project 3.csprojAssemblyReference.cache
+F:\c# project\method1\project 3\obj\Debug\project 3.csproj.CoreCompileInputs.cache
+F:\c# project\method1\project 3\obj\Debug\project 3.exe
+F:\c# project\method1\project 3\obj\Debug\project 3.pdb

@@ -1,0 +1,7 @@
+F:\c# project\method1\Biggest Numb\bin\Debug\Biggest Numb.exe.config
+F:\c# project\method1\Biggest Numb\bin\Debug\Biggest Numb.exe
+F:\c# project\method1\Biggest Numb\bin\Debug\Biggest Numb.pdb
+F:\c# project\method1\Biggest Numb\obj\Debug\Biggest Numb.csprojAssemblyReference.cache
+F:\c# project\method1\Biggest Numb\obj\Debug\Biggest Numb.csproj.CoreCompileInputs.cache
+F:\c# project\method1\Biggest Numb\obj\Debug\Biggest Numb.exe
+F:\c# project\method1\Biggest Numb\obj\Debug\Biggest Numb.pdb

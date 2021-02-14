@@ -1,0 +1,7 @@
+F:\c# project\Sorting The Numbers\Sorting The Numbers\bin\Debug\Sorting The Numbers.exe.config
+F:\c# project\Sorting The Numbers\Sorting The Numbers\bin\Debug\Sorting The Numbers.exe
+F:\c# project\Sorting The Numbers\Sorting The Numbers\bin\Debug\Sorting The Numbers.pdb
+F:\c# project\Sorting The Numbers\Sorting The Numbers\obj\Debug\Sorting The Numbers.csprojAssemblyReference.cache
+F:\c# project\Sorting The Numbers\Sorting The Numbers\obj\Debug\Sorting The Numbers.csproj.CoreCompileInputs.cache
+F:\c# project\Sorting The Numbers\Sorting The Numbers\obj\Debug\Sorting The Numbers.exe
+F:\c# project\Sorting The Numbers\Sorting The Numbers\obj\Debug\Sorting The Numbers.pdb

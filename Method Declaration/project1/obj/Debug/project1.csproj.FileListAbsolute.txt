@@ -1,0 +1,7 @@
+F:\c# project\Method Declaration\project1\obj\Debug\project1.csprojAssemblyReference.cache
+F:\c# project\Method Declaration\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+F:\c# project\Method Declaration\project1\bin\Debug\project1.exe.config
+F:\c# project\Method Declaration\project1\bin\Debug\project1.exe
+F:\c# project\Method Declaration\project1\bin\Debug\project1.pdb
+F:\c# project\Method Declaration\project1\obj\Debug\project1.exe
+F:\c# project\Method Declaration\project1\obj\Debug\project1.pdb

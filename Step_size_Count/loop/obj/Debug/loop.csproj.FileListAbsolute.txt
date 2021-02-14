@@ -1,0 +1,10 @@
+F:\c# project\Step_size_Count\loop\bin\Debug\loop.exe.config
+F:\c# project\Step_size_Count\loop\bin\Debug\loop.exe
+F:\c# project\Step_size_Count\loop\bin\Debug\loop.pdb
+F:\c# project\Step_size_Count\loop\obj\Debug\loop.csprojAssemblyReference.cache
+F:\c# project\Step_size_Count\loop\obj\Debug\loop.Form1.resources
+F:\c# project\Step_size_Count\loop\obj\Debug\loop.Properties.Resources.resources
+F:\c# project\Step_size_Count\loop\obj\Debug\loop.csproj.GenerateResource.cache
+F:\c# project\Step_size_Count\loop\obj\Debug\loop.csproj.CoreCompileInputs.cache
+F:\c# project\Step_size_Count\loop\obj\Debug\loop.exe
+F:\c# project\Step_size_Count\loop\obj\Debug\loop.pdb

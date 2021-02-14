@@ -1,0 +1,6 @@
+F:\c# project\project 1\secondData\bin\Debug\secondData.exe.config
+F:\c# project\project 1\secondData\bin\Debug\secondData.exe
+F:\c# project\project 1\secondData\bin\Debug\secondData.pdb
+F:\c# project\project 1\secondData\obj\Debug\secondData.csproj.CoreCompileInputs.cache
+F:\c# project\project 1\secondData\obj\Debug\secondData.exe
+F:\c# project\project 1\secondData\obj\Debug\secondData.pdb

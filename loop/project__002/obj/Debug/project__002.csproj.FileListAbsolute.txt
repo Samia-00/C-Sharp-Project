@@ -1,0 +1,7 @@
+F:\c# project\loop\project__002\obj\Debug\project__002.csproj.CoreCompileInputs.cache
+F:\c# project\loop\project__002\bin\Debug\project__002.exe.config
+F:\c# project\loop\project__002\bin\Debug\project__002.exe
+F:\c# project\loop\project__002\bin\Debug\project__002.pdb
+F:\c# project\loop\project__002\obj\Debug\project__002.exe
+F:\c# project\loop\project__002\obj\Debug\project__002.pdb
+F:\c# project\loop\project__002\obj\Debug\project__002.csprojAssemblyReference.cache

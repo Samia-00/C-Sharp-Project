@@ -1,0 +1,6 @@
+F:\c# project\loop\project__003\bin\Debug\project__003.exe.config
+F:\c# project\loop\project__003\bin\Debug\project__003.exe
+F:\c# project\loop\project__003\bin\Debug\project__003.pdb
+F:\c# project\loop\project__003\obj\Debug\project__003.csproj.CoreCompileInputs.cache
+F:\c# project\loop\project__003\obj\Debug\project__003.exe
+F:\c# project\loop\project__003\obj\Debug\project__003.pdb

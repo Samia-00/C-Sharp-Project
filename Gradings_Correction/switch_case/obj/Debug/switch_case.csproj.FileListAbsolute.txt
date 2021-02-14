@@ -1,0 +1,10 @@
+F:\c# project\Gradings_Correction\switch_case\bin\Debug\switch_case.exe.config
+F:\c# project\Gradings_Correction\switch_case\bin\Debug\switch_case.exe
+F:\c# project\Gradings_Correction\switch_case\bin\Debug\switch_case.pdb
+F:\c# project\Gradings_Correction\switch_case\obj\Debug\switch_case.csprojAssemblyReference.cache
+F:\c# project\Gradings_Correction\switch_case\obj\Debug\switch_case.Form1.resources
+F:\c# project\Gradings_Correction\switch_case\obj\Debug\switch_case.Properties.Resources.resources
+F:\c# project\Gradings_Correction\switch_case\obj\Debug\switch_case.csproj.GenerateResource.cache
+F:\c# project\Gradings_Correction\switch_case\obj\Debug\switch_case.csproj.CoreCompileInputs.cache
+F:\c# project\Gradings_Correction\switch_case\obj\Debug\switch_case.exe
+F:\c# project\Gradings_Correction\switch_case\obj\Debug\switch_case.pdb

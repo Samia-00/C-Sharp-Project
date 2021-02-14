@@ -1,0 +1,10 @@
+F:\c# project\project__02\primitive\bin\Debug\primitive.exe.config
+F:\c# project\project__02\primitive\bin\Debug\primitive.exe
+F:\c# project\project__02\primitive\bin\Debug\primitive.pdb
+F:\c# project\project__02\primitive\obj\Debug\primitive.csprojAssemblyReference.cache
+F:\c# project\project__02\primitive\obj\Debug\primitive.Form1.resources
+F:\c# project\project__02\primitive\obj\Debug\primitive.Properties.Resources.resources
+F:\c# project\project__02\primitive\obj\Debug\primitive.csproj.GenerateResource.cache
+F:\c# project\project__02\primitive\obj\Debug\primitive.csproj.CoreCompileInputs.cache
+F:\c# project\project__02\primitive\obj\Debug\primitive.exe
+F:\c# project\project__02\primitive\obj\Debug\primitive.pdb
